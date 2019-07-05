@@ -1,2 +1,3 @@
 # WebDeveloperBootcamp
-Udemy : The Web Developer Bootcamp
+Udemy : The Web Developer Bootcamp\
+My exercises about Web Development.
